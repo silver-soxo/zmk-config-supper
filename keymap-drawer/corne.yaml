@@ -48,40 +48,40 @@ layers:
   raise:
   - ''
   - '!'
-  - '&at_sign'
-  - '&hash_sign'
-  - '&dollar_sign'
+  - '@'
+  - '#'
+  - $
   - '%'
-  - '&caret_sign'
-  - '&ask_sign'
+  - ^
+  - '?'
   - '*'
-  - '&ampersant_sign'
+  - AMPS
   - +
   - '='
   - ''
   - _
-  - '&letf_barcket'
+  - '['
   - '-'
-  - '&right_bracket'
-  - '&slash_sign'
-  - '&slash'
+  - ']'
+  - /
+  - /
   - (
-  - '&semicolon_sign'
+  - ;
   - )
   - \
-  - '&grave_sign'
+  - '`'
   - ''
   - {t: ▽, type: trans}
-  - '&less_than'
-  - '&single_quote'
-  - '&greater_than'
-  - '&double_quotes'
-  - '&back_slash'
-  - '&letf_brace'
-  - '&colon_sign'
-  - '&right_brace'
-  - '&pipe_sign'
-  - '&tilde_sign'
+  - <
+  - '"'
+  - '>'
+  - ''''
+  - \
+  - '{'
+  - ':'
+  - '}'
+  - '|'
+  - '~'
   - $$mdi:apple-keyboard-command$$
   - '3'
   - ␣
